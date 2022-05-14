@@ -2,9 +2,9 @@
 
 Built with paks!
 
-![https://raw.githubusercontent.com/syspack/paks/main/docs/assets/img/paks.png](https://raw.githubusercontent.com/syspack/paks/main/docs/assets/img/paks.png)
+![https://raw.githubusercontent.com/syspack/pakages/main/docs/assets/img/paks.png](https://raw.githubusercontent.com/syspack/pakages/main/docs/assets/img/paks.png)
 
-> This is a [paks](https://github.com/syspack/paks) repository, meaning the builds are run automatically via the package file here.
+> This is a [pakages](https://github.com/syspack/pakages) repository, meaning the builds are run automatically via the package file here.
 
 This is the first development respository to design the idea around building, testing, and releasing
 a package from the same repository. A test will simply not pass if it cannot build.
